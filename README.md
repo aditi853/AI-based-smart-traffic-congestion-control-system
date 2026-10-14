@@ -116,10 +116,4 @@ A road with more heavy vehicles (buses, trucks) gets proportionally more green t
 
 ---
 
-## 👩‍💻 Team
-- Aditi Kulkarni
-- Meghana Sidgiddi
-- Aftab Patel
-- Ganesh Jadhav
 
-**Guide:** Prof. A. P. Hosale (Computer Engineering)
